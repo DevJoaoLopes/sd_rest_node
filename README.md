@@ -27,3 +27,16 @@
 - *Marcos Vinicius Souza Pinheiro*
 - *Otavio Romualdo Barbosa*
 - *Pedro Luis Ventroni Pereira*
+
+
+## Run project
+
+```node index.js```
+
+## Routes
+
+- GET -> http://localhost:3030/alunos
+- GET -> http://localhost:3030/alunos/:index
+- POST -> http://localhost:3030/alunos
+- PUT -> http://localhost:3030/alunos/:index
+- DELETE -> http://localhost:3030/alunos/:index
